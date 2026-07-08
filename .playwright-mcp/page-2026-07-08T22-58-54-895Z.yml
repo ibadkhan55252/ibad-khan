@@ -1,0 +1,185 @@
+- generic [active] [ref=f11e1]:
+  - generic [ref=f11e2]:
+    - navigation [ref=f11e3]:
+      - generic [ref=f11e4]: ibad khan
+      - generic [ref=f11e5]:
+        - link "Work" [ref=f11e6] [cursor=pointer]:
+          - /url: "#projects"
+          - text: Work
+        - link "Experience" [ref=f11e7] [cursor=pointer]:
+          - /url: "#experience"
+          - text: Experience
+        - link "About" [ref=f11e8] [cursor=pointer]:
+          - /url: "#about"
+          - text: About
+        - link "Contact" [ref=f11e9] [cursor=pointer]:
+          - /url: "#contact"
+          - text: Contact
+      - link "Reach out" [ref=f11e10] [cursor=pointer]:
+        - /url: "#contact"
+    - generic [ref=f11e12]:
+      - paragraph [ref=f11e13]: Frontend Developer
+      - generic [ref=f11e14]:
+        - heading "Crafting digital" [level=1] [ref=f11e15]
+        - heading "experiences" [level=1] [ref=f11e16]
+        - heading "with care" [level=1] [ref=f11e17]
+      - paragraph [ref=f11e18]: I build modern, performant web applications with React, Next.js, and Tailwind CSS. Currently at Nanolix Digital and Techriv.
+      - generic [ref=f11e19]:
+        - link "See my work" [ref=f11e20] [cursor=pointer]:
+          - /url: "#projects"
+          - text: See my work
+          - img [ref=f11e21]
+        - link "Get in touch" [ref=f11e23] [cursor=pointer]:
+          - /url: "#contact"
+    - button "Scroll down" [ref=f11e25]:
+      - img [ref=f11e26]
+  - generic [ref=f11e30]:
+    - generic [ref=f11e31]:
+      - paragraph [ref=f11e33]: About
+      - paragraph [ref=f11e35]: I'm a frontend developer who cares about how things look, how they feel, and how fast they load. I turn designs into polished, responsive web experiences using React, Next.js, and Tailwind CSS.
+      - paragraph [ref=f11e37]: Right now I'm at Nanolix Digital building high-performance websites with Next.js and Headless WordPress. Before that, I was at Techriv Solutions working on responsive pages and email templates.
+      - paragraph [ref=f11e39]: "My toolkit: React, Next.js, JavaScript, Tailwind CSS, Bootstrap, WordPress, GSAP, and a focus on clean, maintainable code."
+    - generic [ref=f11e40]:
+      - paragraph [ref=f11e42]: Details
+      - generic [ref=f11e44]:
+        - generic [ref=f11e45]: Based in
+        - generic [ref=f11e46]: Hyderabad, Pakistan
+      - generic [ref=f11e48]:
+        - generic [ref=f11e49]: Experience
+        - generic [ref=f11e50]: 2+ years
+      - generic [ref=f11e52]:
+        - generic [ref=f11e53]: Currently at
+        - generic [ref=f11e54]: Nanolix Digital & Techriv
+      - generic [ref=f11e56]:
+        - generic [ref=f11e57]: Email
+        - generic [ref=f11e58]: ibad55252@gmail.com
+      - generic [ref=f11e60]:
+        - generic [ref=f11e61]: Phone
+        - generic [ref=f11e62]: +92 340 8575895
+  - generic [ref=f11e64]:
+    - generic [ref=f11e65]:
+      - paragraph [ref=f11e66]: Experience
+      - heading "Where I've worked" [level=2] [ref=f11e67]
+    - generic [ref=f11e68]:
+      - generic [ref=f11e70]:
+        - button "Nanolix Digital" [ref=f11e71] [cursor=pointer]
+        - button "Techriv Solutions" [ref=f11e72] [cursor=pointer]
+      - generic [ref=f11e75]:
+        - heading "Frontend Developer" [level=3] [ref=f11e76]
+        - paragraph [ref=f11e77]: Nanolix Digital · Part-time · Remote · May 2025 — Present
+        - list [ref=f11e78]:
+          - listitem [ref=f11e79]: Building high-performance, SEO-optimized sites with Next.js App Router and Headless WordPress
+          - listitem [ref=f11e81]: Developing modular React components for scalable architecture
+          - listitem [ref=f11e83]: Optimizing Lighthouse scores through image optimization and lazy loading
+        - generic [ref=f11e85]:
+          - generic [ref=f11e86]: Next.js
+          - generic [ref=f11e87]: React
+          - generic [ref=f11e88]: WordPress REST API
+          - generic [ref=f11e89]: Tailwind CSS
+          - generic [ref=f11e90]: Swiper.js
+          - generic [ref=f11e91]: React Hook Form
+  - generic [ref=f11e93]:
+    - paragraph [ref=f11e95]: Skills
+    - generic [ref=f11e96]:
+      - generic [ref=f11e98]:
+        - generic [ref=f11e99]: React / Next.js
+        - generic [ref=f11e101]: 0%
+      - generic [ref=f11e104]:
+        - generic [ref=f11e105]: JavaScript (ES6+)
+        - generic [ref=f11e107]: 0%
+      - generic [ref=f11e110]:
+        - generic [ref=f11e111]: Tailwind CSS
+        - generic [ref=f11e113]: 0%
+      - generic [ref=f11e116]:
+        - generic [ref=f11e117]: Bootstrap
+        - generic [ref=f11e119]: 0%
+      - generic [ref=f11e122]:
+        - generic [ref=f11e123]: WordPress / Headless
+        - generic [ref=f11e125]: 0%
+      - generic [ref=f11e128]:
+        - generic [ref=f11e129]: HTML / CSS
+        - generic [ref=f11e131]: 0%
+    - generic [ref=f11e133]:
+      - generic [ref=f11e135]:
+        - generic [ref=f11e136]: GSAP
+        - generic [ref=f11e137]: Advanced
+      - generic [ref=f11e139]:
+        - generic [ref=f11e140]: Motion
+        - generic [ref=f11e141]: Advanced
+      - generic [ref=f11e143]:
+        - generic [ref=f11e144]: jQuery
+        - generic [ref=f11e145]: Advanced
+      - generic [ref=f11e147]:
+        - generic [ref=f11e148]: REST API
+        - generic [ref=f11e149]: Proficient
+  - generic [ref=f11e151]:
+    - paragraph [ref=f11e153]: Work
+    - generic [ref=f11e154]:
+      - link "L Landify A modern landing page with smooth GSAP animations and clean UI patterns. React Tailwind GSAP" [ref=f11e159] [cursor=pointer]:
+        - /url: https://github.com/ibadkhan55252/Landify
+        - generic [ref=f11e160]:
+          - generic [ref=f11e161]: L
+          - img [ref=f11e162]
+        - heading "Landify" [level=3] [ref=f11e164]
+        - paragraph [ref=f11e165]: A modern landing page with smooth GSAP animations and clean UI patterns.
+        - generic [ref=f11e166]:
+          - generic [ref=f11e167]: React
+          - generic [ref=f11e168]: Tailwind
+          - generic [ref=f11e169]: GSAP
+      - link "h heroUI Reusable hero section components with varied animation patterns for Next.js. Next.js Tailwind Motion" [ref=f11e174] [cursor=pointer]:
+        - /url: https://github.com/ibadkhan55252/heroUI
+        - generic [ref=f11e175]:
+          - generic [ref=f11e176]: h
+          - img [ref=f11e177]
+        - heading "heroUI" [level=3] [ref=f11e179]
+        - paragraph [ref=f11e180]: Reusable hero section components with varied animation patterns for Next.js.
+        - generic [ref=f11e181]:
+          - generic [ref=f11e182]: Next.js
+          - generic [ref=f11e183]: Tailwind
+          - generic [ref=f11e184]: Motion
+      - link "C Codelace Redesign Full platform redesign focused on UX, modern aesthetics, and responsiveness. React CSS Figma" [ref=f11e188] [cursor=pointer]:
+        - /url: https://github.com/ibadkhan55252/Codelace-redesign
+        - generic [ref=f11e189]:
+          - generic [ref=f11e190]: C
+          - img [ref=f11e191]
+        - heading "Codelace Redesign" [level=3] [ref=f11e193]
+        - paragraph [ref=f11e194]: Full platform redesign focused on UX, modern aesthetics, and responsiveness.
+        - generic [ref=f11e195]:
+          - generic [ref=f11e196]: React
+          - generic [ref=f11e197]: CSS
+          - generic [ref=f11e198]: Figma
+      - link "W Weather API App Real-time weather dashboard using OpenWeatherMap API with dynamic theming. JavaScript API CSS" [ref=f11e203] [cursor=pointer]:
+        - /url: https://github.com/ibadkhan55252/weatherAPI
+        - generic [ref=f11e204]:
+          - generic [ref=f11e205]: W
+          - img [ref=f11e206]
+        - heading "Weather API App" [level=3] [ref=f11e208]
+        - paragraph [ref=f11e209]: Real-time weather dashboard using OpenWeatherMap API with dynamic theming.
+        - generic [ref=f11e210]:
+          - generic [ref=f11e211]: JavaScript
+          - generic [ref=f11e212]: API
+          - generic [ref=f11e213]: CSS
+    - link "View all on GitHub" [ref=f11e216] [cursor=pointer]:
+      - /url: https://github.com/ibadkhan55252
+      - img [ref=f11e217]
+      - text: View all on GitHub
+      - img [ref=f11e219]
+  - generic [ref=f11e222]:
+    - generic [ref=f11e223]:
+      - paragraph [ref=f11e225]: Contact
+      - heading "Let's build something together" [level=2] [ref=f11e227]
+      - paragraph [ref=f11e229]: I'm open to freelance projects, full-time roles, or just a conversation about frontend development. No pitches, no pressure.
+      - link "Send a message" [ref=f11e232] [cursor=pointer]:
+        - /url: mailto:ibad55252@gmail.com
+        - text: Send a message
+        - img [ref=f11e233]
+      - generic [ref=f11e236]:
+        - link "GitHub" [ref=f11e237] [cursor=pointer]:
+          - /url: https://github.com/ibadkhan55252
+        - link "LinkedIn" [ref=f11e238] [cursor=pointer]:
+          - /url: https://www.linkedin.com/in/ibadkhan55252
+        - link "Email" [ref=f11e239] [cursor=pointer]:
+          - /url: mailto:ibad55252@gmail.com
+    - paragraph [ref=f11e242]: © 2026 Ibad Khan
+  - button "Open Next.js Dev Tools" [ref=f11e248] [cursor=pointer]:
+    - img [ref=f11e249]

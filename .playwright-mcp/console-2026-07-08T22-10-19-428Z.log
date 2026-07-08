@@ -1,0 +1,22 @@
+[    1036ms] [INFO] Successfully set dark color mode. @ https://www.reactbits.dev/assets/index-CdueRhMc.js:95
+[    1167ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1167ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1167ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1167ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1167ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1167ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1180ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1180ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1180ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1180ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1180ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1180ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/scroll-reveal:0
+[    1327ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/assets/index-CdueRhMc.js:109
+[    1328ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/assets/index-CdueRhMc.js:109
+[    1328ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/assets/index-CdueRhMc.js:109
+[    1329ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/assets/index-CdueRhMc.js:109
+[    1403ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api.github.com/repos/DavidHDev/react-bits:0
+[  178663ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/assets/useComponentProps-u3FdpDLa.js:29
+[  178664ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/assets/useComponentProps-u3FdpDLa.js:29
+[  178664ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/assets/useComponentProps-u3FdpDLa.js:29
+[  178664ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/assets/useComponentProps-u3FdpDLa.js:29

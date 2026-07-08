@@ -1,0 +1,5 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "instructions": ["ibad-agent.md"],
+  "default_agent": "ibad-agent"
+}

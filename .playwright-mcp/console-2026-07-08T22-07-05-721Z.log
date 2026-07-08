@@ -1,0 +1,27 @@
+[    2010ms] [INFO] Successfully set dark color mode. @ https://www.reactbits.dev/assets/index-CdueRhMc.js:95
+[    2110ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2110ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2110ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2110ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2110ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2111ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2112ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2112ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2112ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2112ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2112ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2112ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/split-text:0
+[    2240ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api.github.com/repos/DavidHDev/react-bits:0
+[    2399ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/assets/index-CdueRhMc.js:109
+[    2400ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/assets/index-CdueRhMc.js:109
+[    2401ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/assets/index-CdueRhMc.js:109
+[    2403ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/assets/index-CdueRhMc.js:109
+[    2505ms] [WARNING] SplitText called before fonts loaded @ https://www.reactbits.dev/assets/SplitText-n_eiQhs4.js:8
+[   51063ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/assets/useComponentProps-u3FdpDLa.js:29
+[   51063ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/assets/useComponentProps-u3FdpDLa.js:29
+[   51064ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/assets/useComponentProps-u3FdpDLa.js:29
+[   51064ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/assets/useComponentProps-u3FdpDLa.js:29
+[   92248ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-sans/Geist-Variable.woff2 @ https://www.reactbits.dev/text-animations/split-text:0
+[   92248ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/split-text:0
+[   92248ms] [WARNING] Failed to decode downloaded font: https://www.reactbits.dev/assets/css/geist/dist/fonts/geist-mono/GeistMono-Variable.woff2 @ https://www.reactbits.dev/text-animations/split-text:0
+[   92248ms] [WARNING] OTS parsing error: invalid sfntVersion: 1008821359 @ https://www.reactbits.dev/text-animations/split-text:0
