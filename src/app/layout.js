@@ -1,4 +1,5 @@
 import { Inter, Geist_Mono } from "next/font/google";
+import JsonLd from "@/components/JsonLd";
 import "./globals.css";
 
 const inter = Inter({
@@ -12,13 +13,45 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+const BASE_URL = process.env.SITE_URL || 'https://ibad-khan.vercel.app';
+
 export const metadata = {
+  metadataBase: new URL(BASE_URL),
   title: "Ibad Khan | Frontend Developer",
-  description: "Frontend developer building modern, performant web experiences with React, Next.js, and Tailwind CSS. Based in Hyderabad.",
+  description:
+    "Frontend developer building modern, performant web experiences with React, Next.js, and Tailwind CSS. Based in Hyderabad.",
+  keywords: [
+    "frontend developer",
+    "react developer",
+    "next.js",
+    "web developer",
+    "portfolio",
+    "ibad khan",
+    "hyderabad",
+  ],
+  authors: [{ name: "Ibad Khan" }],
+  creator: "Ibad Khan",
   openGraph: {
     title: "Ibad Khan | Frontend Developer",
-    description: "Frontend developer building modern, performant web experiences.",
+    description:
+      "Frontend developer building modern, performant web experiences with React, Next.js, and Tailwind CSS.",
+    url: BASE_URL,
+    siteName: "Ibad Khan Portfolio",
+    locale: "en_US",
     type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Ibad Khan | Frontend Developer",
+    description:
+      "Frontend developer building modern, performant web experiences with React, Next.js, and Tailwind CSS.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
+  alternates: {
+    canonical: BASE_URL,
   },
 };
 
@@ -29,6 +62,7 @@ export default function RootLayout({ children }) {
       className={`${inter.variable} ${geistMono.variable} h-full antialiased`}
     >
       <body className="min-h-full bg-canvas text-ink" style={{ fontVariationSettings: "'cv01' 1, 'cv05' 1, 'cv09' 1, 'cv11' 1, 'ss03' 1, 'ss07' 1, 'dlig' 1" }}>
+        <JsonLd />
         {children}
       </body>
     </html>
