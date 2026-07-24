@@ -31,6 +31,9 @@ export const metadata = {
   ],
   authors: [{ name: "Ibad Khan" }],
   creator: "Ibad Khan",
+  verification: {
+    google: "googlec5f414645987388e.html",
+  },
   openGraph: {
     title: "Ibad Khan | Frontend Developer",
     description:
@@ -40,11 +43,27 @@ export const metadata = {
     locale: "en_US",
     type: "website",
   },
+  openGraph: {
+    title: "Ibad Khan | Frontend Developer",
+    description:
+      "Frontend developer building modern, performant web experiences with React, Next.js, and Tailwind CSS.",
+    url: BASE_URL,
+    siteName: "Ibad Khan Portfolio",
+    locale: "en_US",
+    type: "website",
+    images: [
+      {
+        url: `${BASE_URL}/featured-image.jpg`,
+        alt: "Ibad Khan portfolio preview image",
+      },
+    ],
+  },
   twitter: {
     card: "summary_large_image",
     title: "Ibad Khan | Frontend Developer",
     description:
       "Frontend developer building modern, performant web experiences with React, Next.js, and Tailwind CSS.",
+    images: [`${BASE_URL}/featured-image.jpg`],
   },
   robots: {
     index: true,
